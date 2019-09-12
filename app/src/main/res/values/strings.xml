@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RickAndMortyKotlin</string>
+
+    <string name="show_all">
+        <u>Show All</u>
+    </string>
+
+</resources>
